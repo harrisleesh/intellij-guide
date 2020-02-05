@@ -15,3 +15,7 @@
 - Pull : ctrl + shift + a -> git pull 
 - 기존 프로젝트에 github에 연동하기 : ctrl + shift + a -> share Project on Github
 - github 프로젝트를 clone 하기 : welcome to intellij 화면 -> check out from version control
+
+<h2>chap 9. 플러그인 </h2>
+- plugin 설치
+- 추천 플러그인 
