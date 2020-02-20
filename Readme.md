@@ -19,3 +19,5 @@
 <h2>chap 9. 플러그인 </h2>
 - plugin 설치
 - 추천 플러그인 
+
+Finish class
